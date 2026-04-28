@@ -34,7 +34,7 @@ Para ejecutar este proyecto, es necesario contar con un entorno de Python 3.12+ 
 
 ### Instalación
 
-```bash
+
 pip install pandas transformers torch scikit-learn torchvision
 
 
@@ -57,5 +57,5 @@ El resultado final es un archivo denominado `reviews_with_sentiment.csv` que con
 * **Original_Language:** Idioma de origen del registro.
 * **Sentiment:** Clasificación final (POSITIVE / NEGATIVE).
 
----
+
 **Autor:** Ana Patricia Aban Monzon
